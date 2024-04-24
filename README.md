@@ -1,5 +1,5 @@
 ## 🎆Olá! Meu nome é João Pedro Galhardo de Oliveira
-Atualmente cursando o 1° ano de Ciência da Computação no Instituto Mauá de Tecnologia.
+Atualmente cursando o de Ciência da Computação no Instituto Mauá de Tecnologia.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joão-galhardo/) 
